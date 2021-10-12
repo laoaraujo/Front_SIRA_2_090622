@@ -16,7 +16,7 @@ Instruções de aplicação:
 
 >Abra a pasta do projeto no IDE de preferência; 
 
->Abra o employee.py no console e dê run no código (execute), após isso o seu banco de dados será criado (sqlite); 
+>Abra o employee.py no console e dê run no código (execute), após isso o seu banco de dados será criado (sqlite). Se o arquivo employee.bd já estiver na pasta consider este passo; 
 
 > Abra o terminal (CMD) e crie o seu ambiente virtual (venv) e ative-o; 
 
